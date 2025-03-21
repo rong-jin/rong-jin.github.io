@@ -1,7 +1,7 @@
 ---
 title: "Characterization of Energy Dissipation and Material Failure Mechanisms In High-Velocity Impact of Magnesium Alloys"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2024-11-17-characterization-energy-dissipation-mg-alloys
 excerpt: "This paper presents an investigation on energy dissipation and material failure mechanisms in high-velocity impact of magnesium alloys."
 date: 2024-11-17
