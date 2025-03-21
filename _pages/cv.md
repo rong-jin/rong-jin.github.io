@@ -17,22 +17,27 @@ Education
 
 Work experience
 ======
-* Jan 2023 – Current: Graduate Research Assistant, University of Kentucky  
+* Jan 2023 – Current: Graduate Research Assistant, University of Kentucky
+  * Advisor: Dr. Xingsheng Sun  
   * Duties included: Conducting high-velocity impact simulations on Mg alloy specimens using the SPH method in LS-DYNA and developing an automated data assimilation framework with LS-DYNA and Python for material parameter calibration.  
-  * Supervisor: Dr. Xingsheng Sun
+
 
 * Oct 2019 – Dec 2022: Mechanical Engineer, Zhenhua Port Machinery Company Limited (ZPMC)  
   * Duties included: Conceptualizing and drafting detailed construction schematics for port machinery, performing static structural analysis with FEM in ANSYS, and creating 3D models and animations using SolidWorks Motion to support product visualization and promotion.  
-  * Supervisor: [Not specified]
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * MATLAB
+* CAD Tools
+  * AutoCAD
+  * SolidWorks
+* CAE Tools
+  * ANSYS Workbench
+  * ANSYS Mechanical APDL
+  * LS-DYNA
 
 Publications
 ======
@@ -46,7 +51,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!--Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -54,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams-->
