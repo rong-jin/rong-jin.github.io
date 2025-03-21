@@ -11,26 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering, University of Kentucky, 2027 (expected)
+* M.S. in Mechanical Engineering Design, University of Manchester, 2019
+* B.E. in Mechanical Design, Manufacturing and Automation, Shanghai Maritime University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan 2023 – Current: Graduate Research Assistant, University of Kentucky  
+  * Duties included: Conducting high-velocity impact simulations on Mg alloy specimens using the SPH method in LS-DYNA and developing an automated data assimilation framework with LS-DYNA and Python for material parameter calibration.  
+  * Supervisor: Dr. Xingsheng Sun
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 2019 – Dec 2022: Mechanical Engineer, Zhenhua Port Machinery Company Limited (ZPMC)  
+  * Duties included: Conceptualizing and drafting detailed construction schematics for port machinery, performing static structural analysis with FEM in ANSYS, and creating 3D models and animations using SolidWorks Motion to support product visualization and promotion.  
+  * Supervisor: [Not specified]
   
 Skills
 ======
