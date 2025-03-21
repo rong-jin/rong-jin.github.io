@@ -1,7 +1,7 @@
 ---
 title: "The Conceptional Design and Simulation of a Foldable Lunar Vehicle"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2021-02-26-foldable-lunar-vehicle
 excerpt: "This paper discusses the conceptual design and simulation of a foldable lunar vehicle."
 date: 2021-02-26
