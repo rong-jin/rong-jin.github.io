@@ -1,0 +1,7 @@
+<li>
+  <strong>{{ post.title }}</strong> &nbsp;&nbsp;<span style="font-size: smaller; float: right;">{{ post.date | date: "%Y-%m-%d" }}</span><br>
+  {% if post.venue %}
+    <em>{{ post.venue }}</em><br>
+  {% endif %}
+  {{ post.excerpt | markdownify }}
+</li>
