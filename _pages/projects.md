@@ -24,13 +24,13 @@ Performed SPH simulations to model projectile impacts on various magnesium alloy
 </div>-->
 
 <div style="width: 100%; max-width: 1200px; margin: 20px auto; background: #eee; padding: 20px;">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <iframe width="300" height="275" src="https://www.youtube.com/embed/Mgilk_iLav4" 
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <iframe width="300" height="175" src="https://www.youtube.com/embed/Mgilk_iLav4" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
             allowfullscreen>
     </iframe>
-    <iframe width="300" height="275" src="https://www.youtube.com/embed/IUMIIelIUYs" 
+    <iframe width="300" height="175" src="https://www.youtube.com/embed/IUMIIelIUYs" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
             allowfullscreen>
