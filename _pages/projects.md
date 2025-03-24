@@ -7,7 +7,7 @@ permalink: /projects/
 
 ## Simulation of High-velocity Impact on Mg Alloys
 
-<div style="text-align: right; font-size: smaller;">
+<div style="text-align: left; font-size: smaller;">
 Collaborators: Prof. Suhas Eswarap Prameela (U of Utah), Dr. Pinkesh Malhotra (JHU), Dr. Justin Moren (JHU), and Prof. KT Remash (JHU) &nbsp;&nbsp;&nbsp; (Jan. 2023 – Jan. 2024)
 </div>
 
