@@ -51,7 +51,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Projects
+<!--Projects
 ======
   <ul>{% for post in site.projects reversed %}
     {% include archive-single-talk-cv.html  %}
