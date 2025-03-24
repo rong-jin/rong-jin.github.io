@@ -36,9 +36,15 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    {% if post.date %}
+    {% if post.start_date and post.end_date %}
       <p class="page__meta">
-        <i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}
+        <i class="fa fa-clock" aria-hidden="true"></i>
+        {{ post.start_date | date: '%B %d, %Y' }} - {{ post.end_date | date: '%B %d, %Y' }}
+      </p>
+    {% elsif post.date %}
+      <p class="page__meta">
+        <i class="fa fa-clock" aria-hidden="true"></i>
+        {{ post.date | date: '%B %d, %Y' }}
       </p>
     {% endif %}
     {% if post.venue %}
