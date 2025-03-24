@@ -12,7 +12,7 @@ Jan. 2023 – Jun. 2024
 
 Performed SPH simulations to model projectile impacts on various magnesium alloys under adiabatic conditions, and validated simulation results against tensile tests on EDM-fabricated microtensile samples with high-speed DIC measurements. Accurately captured stress contours and backface deflections at key impact velocities, thereby revealing detailed impact dynamics.
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<!--<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Mgilk_iLav4" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -21,26 +21,23 @@ Performed SPH simulations to model projectile impacts on various magnesium alloy
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen></iframe>
+</div>-->
+
+<div style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto; height: 0; padding-bottom: 56.25%; border: 1px solid #ccc;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); display: flex; gap: 10px;">
+    <iframe width="250" height="275" src="https://www.youtube.com/embed/Mgilk_iLav4" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+    </iframe>
+    <iframe width="250" height="275" src="https://www.youtube.com/embed/IUMIIelIUYs" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+    </iframe>
+  </div>
 </div>
 
-<!--<div style="display: flex; gap: 10px; flex-wrap: nowrap; width: 100%; max-width: 1200px; margin: 0 auto;"> 
-  <!-- 第一个视频容器（9:16） -->
-<!--<div style="display: flex; gap: 10px; flex-wrap: nowrap; width: 100%; max-width: 1200px; margin: 0 auto;">
-  <div style="position: relative; width: calc(50% - 5px); padding-bottom: 56.25%;">
-    <iframe src="https://www.youtube.com/embed/Mgilk_iLav4" 
-            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-            frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-            allowfullscreen></iframe>
-  </div>
-  <div style="position: relative; width: calc(50% - 5px); padding-bottom: 56.25%;">
-    <iframe src="https://www.youtube.com/embed/IUMIIelIUYs" 
-            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-            frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-            allowfullscreen></iframe>
-  </div>
-</div>-->
 
 
 
