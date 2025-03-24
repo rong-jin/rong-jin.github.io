@@ -24,6 +24,3 @@ Performed SPH simulations to model projectile impacts on various magnesium alloy
           allowfullscreen></iframe>
 </div>
 
-## Project 2: 项目名称
-
-项目简介……
