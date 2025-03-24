@@ -14,11 +14,11 @@ Performed SPH simulations to model projectile impacts on various magnesium alloy
 
 
 <!-- 如果需要嵌入 YouTube 视频 --><div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Mgilk_iLav4" 
+  <iframe width="250" height="275" src="https://www.youtube.com/embed/Mgilk_iLav4" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen></iframe>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/IUMIIelIUYs" 
+  <iframe width="250" height="275" src="https://www.youtube.com/embed/IUMIIelIUYs" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen></iframe>
