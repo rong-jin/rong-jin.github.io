@@ -17,15 +17,11 @@ Education
 
 Work experience
 ======
-* Jan 2023 – Current: Graduate Research Assistant, University of Kentucky
-  * Advisor: Dr. Xingsheng Sun  
-  * Duties included: Conducting high-velocity impact simulations on Mg alloy specimens using the SPH method in LS-DYNA and developing an automated data assimilation framework with LS-DYNA and Python for material parameter calibration.  
+* Graduate Research Assistant, Department of Mechanical and Aerospace Engineering, University of Kentucky, KY, United States, Jan 2023 – Current
+  * Advisor: [Dr. Xingsheng Sun](https://engr.uky.edu/people/xingsheng-sun)
 
+* Mechanical Engineer, Zhenhua Port Machinery Company Limited (ZPMC), Shanghai, China, Oct 2019 – Dec 2022 
 
-* Oct 2019 – Dec 2022: Mechanical Engineer, Zhenhua Port Machinery Company Limited (ZPMC)  
-  * Duties included: Conceptualizing and drafting detailed construction schematics for port machinery, performing static structural analysis with FEM in ANSYS, and creating 3D models and animations using SolidWorks Motion to support product visualization and promotion.  
-
-  
 Skills
 ======
 * Programming Languages
@@ -38,6 +34,10 @@ Skills
   * ANSYS Workbench
   * ANSYS Mechanical APDL
   * LS-DYNA
+
+Awards
+======
+* Dean’s Tuition Scholarship, Spring 2025
 
 Publications
 ======
