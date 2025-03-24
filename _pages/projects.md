@@ -3,7 +3,6 @@ title: "Projects"
 permalink: /projects/
 ---
 # Research Projects
-
 ## Simulation of High-velocity Impact on Mg Alloys
 
 <div style="text-align: left; font-size: smaller;">
