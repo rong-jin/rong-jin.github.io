@@ -13,13 +13,21 @@ Jan. 2023 – Jun. 2024
 Performed SPH simulations to model projectile impacts on various magnesium alloys under adiabatic conditions, and validated simulation results against tensile tests on EDM-fabricated microtensile samples with high-speed DIC measurements. Accurately captured stress contours and backface deflections at key impact velocities, thereby revealing detailed impact dynamics.
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <iframe width="48%" height="275" src="https://www.youtube.com/embed/Mgilk_iLav4" 
-          frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen></iframe>
-  <iframe width="48%" height="275" src="https://www.youtube.com/embed/IUMIIelIUYs" 
-          frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen></iframe>
+  <div style="position: relative; width: 48%; padding-bottom: 56.25%;">
+    <iframe src="https://www.youtube.com/embed/Mgilk_iLav4" 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen></iframe>
+  </div>
+  <div style="position: relative; width: 48%; padding-bottom: 56.25%;">
+    <iframe src="https://www.youtube.com/embed/IUMIIelIUYs" 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen></iframe>
+  </div>
 </div>
+
+
 
