@@ -23,12 +23,8 @@ Performed SPH simulations to model projectile impacts on various magnesium alloy
           allowfullscreen></iframe>
 </div>-->
 
-<div style="position: relative; width: 100%; max-width: 1200px; margin: 0 auto; background: #eee;">
-  <!-- 占位 div，用于保持 16:9 比例 -->
-  <div style="width: 100%; padding-top: 56.25%;"></div>
-  <!-- 绝对定位的 overlay 容器，用 flex 居中显示两个视频 -->
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;
-              display: flex; align-items: center; justify-content: center; gap: 10px;">
+<div style="width: 100%; max-width: 1200px; margin: 20px auto; background: #eee; padding: 20px;">
+  <div style="display: flex; justify-content: center; gap: 10px;">
     <iframe width="250" height="275" src="https://www.youtube.com/embed/Mgilk_iLav4" 
             frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
