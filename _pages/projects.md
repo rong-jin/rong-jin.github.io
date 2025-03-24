@@ -25,25 +25,20 @@ Performed SPH simulations to model projectile impacts on various magnesium alloy
 
 <div style="display: flex; gap: 10px; flex-wrap: nowrap; width: 100%; max-width: 1200px; margin: 0 auto;"> -->
   <!-- 第一个视频容器（9:16） -->
-  <div style="position: relative; flex: 1; padding-bottom: 177.78%;">
-    <iframe
-      src="https://www.youtube.com/embed/Mgilk_iLav4"
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen>
-    </iframe>
+<div style="display: flex; gap: 10px; flex-wrap: nowrap; width: 100%; max-width: 1200px; margin: 0 auto;">
+  <div style="position: relative; width: calc(50% - 5px); padding-bottom: 56.25%;">
+    <iframe src="https://www.youtube.com/embed/Mgilk_iLav4" 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen></iframe>
   </div>
-
-  <!-- 第二个视频容器（9:16） -->
-  <div style="position: relative; flex: 1; padding-bottom: 177.78%;">
-    <iframe
-      src="https://www.youtube.com/embed/IUMIIelIUYs"
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen>
-    </iframe>
+  <div style="position: relative; width: calc(50% - 5px); padding-bottom: 56.25%;">
+    <iframe src="https://www.youtube.com/embed/IUMIIelIUYs" 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen></iframe>
   </div>
 </div>
 
