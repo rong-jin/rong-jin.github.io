@@ -3,8 +3,8 @@ title: "Korea POSCO Grab Type Ship Unloader"
 collection: projects
 type: "Project"
 permalink: /projects/2021-09-01-Korea-POSCO-Grab-Type-Ship-Unloader
-start_date: 09-2021
-end_date: 06-2022
+start_date: 2021-09-01
+end_date: 2022-06-24
 venue: "Research & Design Institute, Zhenhua Port Machinery Company Limited"  
 location: "Shanghai, China"
 ---
