@@ -3,8 +3,8 @@ title: "Vietnam Quang Trach Continuous Ship Unloader"
 collection: projects
 type: "Project"
 permalink: /projects/2022-04-01-Vietnam-Quang-Trach-Continuous-Ship-Unloader
-start_date: 04-2022
-end_date: 12-2022
+start_date: 2022-04-01
+end_date: 2022-12-23
 venue: "Research & Design Institute, Zhenhua Port Machinery Company Limited"  
 location: "Shanghai, China"
 ---
