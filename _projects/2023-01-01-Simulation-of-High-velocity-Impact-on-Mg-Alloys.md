@@ -3,8 +3,8 @@ title: "Simulation of High-velocity Impact on Mg Alloys"
 collection: projects
 type: "Project"
 permalink: /projects/2023-01-01-Simulation-of-High-velocity-Impact-on-Mg-Alloys
-start_date: 2023-01-01
-end_date: 2024-06-30
+start_date: 01-2023
+end_date: 06-2024
 venue: "Department of Mechanical and Aerospace Engineering, University of Kentucky"  
 location: "Lexington, Kentucky, USA"
 ---
