@@ -8,4 +8,4 @@ date: 2025-04-09
 location: "Annapolis, Maryland, USA"
 ---
 
-This work addresses the calibration challenges in high-velocity impact modeling by applying ensemble-based data assimilation (DA) to Smoothed Particle Hydrodynamics (SPH) simulations. Utilizing the ensemble Kalman filter (EnKF), we iteratively integrate experimental observations and simulation results to enhance accuracy of material model parameters. The resulting improved calibration framework significantly advances reliability and precision in high-strain-rate impact simulations.
+This presentation addressed the calibration challenges in high-velocity impact modeling by applying ensemble-based data assimilation (DA) to Smoothed Particle Hydrodynamics (SPH) simulations. Utilizing the ensemble Kalman filter (EnKF), we iteratively integrated experimental observations and simulation results to enhance accuracy of material model parameters. The resulting improved calibration framework significantly advances reliability and precision in high-strain-rate impact simulations.
