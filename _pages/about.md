@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in Mechanical Engineering at the University of Kentucky, specializing in high-velocity impact and data assimilation. My research leverages advanced simulation techniques—utilizing both the Smoothed Particle Hydrodynamics (SPH) method and the Finite Element Method (FEM) in LS-DYNA and Python—to optimize material parameter calibration. I am also proficient in 3D modeling with SolidWorks, motion analysis, and technical documentation, enabling me to deliver robust, data-driven engineering solutions. Welcome to explore my work and join me in discussing cutting-edge technologies.
+I'm a Ph.D. candidate in Mechanical Engineering at the University of Kentucky, specializing in high-velocity impact and data assimilation. My research leverages advanced simulation techniques, utilizing both the Smoothed Particle Hydrodynamics (SPH) method and the Finite Element Method (FEM) in LS-DYNA and Python, to optimize material parameter calibration. I am also proficient in 3D modeling with SolidWorks, motion analysis, and technical documentation, enabling me to deliver robust, data-driven engineering solutions. Welcome to explore my work and join me in discussing cutting-edge technologies.
 
 <!--A data-driven personal website
 ======
