@@ -17,23 +17,15 @@ Education
 
 Work experience
 ======
-* Graduate Research Assistant, Department of Mechanical and Aerospace Engineering, University of Kentucky, KY, United States, Jan 2023 – Current
-  * Advisor: [Dr. Xingsheng Sun](https://engr.uky.edu/people/xingsheng-sun)
+* Graduate Research Assistant, Advisor: [Dr. Xingsheng Sun](https://engr.uky.edu/people/xingsheng-sun), Department of Mechanical and Aerospace Engineering, University of Kentucky, KY, United States, Jan 2023 – Current
 
-* Mechanical Engineer, Zhenhua Port Machinery Company Limited (ZPMC), Shanghai, China, Oct 2019 – Dec 2022 
+* Mechanical Design Engineer, Zhenhua Port Machinery Company Limited (ZPMC), Shanghai, China, Oct 2019 – Dec 2022 
 
 Skills
 ======
-* Programming Languages
-  * Python
-  * MATLAB
-* CAD Tools
-  * AutoCAD
-  * SolidWorks
-* CAE Tools
-  * ANSYS Workbench
-  * ANSYS Mechanical APDL
-  * LS-DYNA
+* Programming Languages: Python, MATLAB
+* CAD Tools: AutoCAD, SolidWorks
+* CAE Tools: ANSYS Workbench, ANSYS Mechanical APDL, LS-DYNA
 
 Awards
 ======
@@ -51,7 +43,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-<!--Projects
+Projects
 ======
   <ul>{% for post in site.projects reversed %}
     {% include archive-single-talk-cv.html  %}
