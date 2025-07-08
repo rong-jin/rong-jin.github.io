@@ -15,7 +15,7 @@ Education
 * M.S. in Mechanical Engineering Design, University of Manchester, 2019
 * B.E. in Mechanical Design, Manufacturing and Automation, Shanghai Maritime University, 2018
 
-Work experience
+Experience
 ======
 * Graduate Research Assistant, Advisor: [Dr. Xingsheng Sun](https://engr.uky.edu/people/xingsheng-sun), Department of Mechanical and Aerospace Engineering, University of Kentucky, KY, United States, Jan 2023 – Current
 
