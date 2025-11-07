@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical Engineering, University of Kentucky, 2027 (expected)
+* Ph.D in Mechanical Engineering, University of Kentucky, 2026 (expected)
 * M.S. in Mechanical Engineering Design, University of Manchester, 2019
 * B.E. in Mechanical Design, Manufacturing and Automation, Shanghai Maritime University, 2018
 
