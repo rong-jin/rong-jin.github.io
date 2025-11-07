@@ -17,6 +17,8 @@ Education
 
 Experience
 ======
+* Visiting Scholar, Advisor: [Dr. Kaliat (K.T.) Ramesh](https://engineering.jhu.edu/faculty/kaliat-kt-ramesh/), Hopkins Extreme Materials Institute, Johns Hopkins University, MD, United States, Nov 2025 – Mar 2026
+
 * Graduate Research Assistant, Advisor: [Dr. Xingsheng Sun](https://engr.uky.edu/people/xingsheng-sun), Department of Mechanical and Aerospace Engineering, University of Kentucky, KY, United States, Jan 2023 – Current
 
 * Mechanical Design Engineer, Zhenhua Port Machinery Company Limited (ZPMC), Shanghai, China, Oct 2019 – Dec 2022 
