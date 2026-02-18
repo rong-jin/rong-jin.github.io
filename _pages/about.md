@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in Mechanical Engineering at the University of Kentucky, specializing in high-velocity impact and data assimilation. My research leverages advanced simulation techniques, utilizing both the Smoothed Particle Hydrodynamics (SPH) method and the Finite Element Method (FEM) in LS-DYNA and Python, to optimize material parameter calibration. I am also proficient in 3D modeling with SolidWorks, motion analysis, and technical documentation, enabling me to deliver robust, data-driven engineering solutions. Welcome to explore my work and join me in discussing cutting-edge technologies.
+I am a Ph.D. candidate in Mechanical Engineering at the University of Kentucky, driven by a passion for solving complex problems at the intersection of High-Velocity Impact (HVI) mechanics and computational modeling.
+
+My research focuses on bridging the gap between virtual simulations and physical reality. I specialize in advanced LS-DYNA simulations, leveraging both meshfree methods (SPH/SPG) and Finite Element Methods (FEM) to model extreme material behaviors. A key differentiator in my work is the rigorous application of Data Assimilation (DA) and Uncertainty Quantification (UQ). I utilize these frameworks specifically for material model parameter calibration, ensuring that simulation predictions are mathematically robust and physically accurate.
+
+Beyond computational mechanics, I believe in a holistic engineering approach. My technical workflow is supported by HVI experiments and 3D-DIC data post-processing for validation. I am also proficient in using Python for data analysis and automation, and SolidWorks for 3D modeling and motion analysis.
+
+Whether it's conducting high-fidelity simulations or delivering comprehensive technical documentation, I am committed to providing robust, data-driven engineering solutions. I welcome the opportunity to connect and discuss cutting-edge technologies in simulation and mechanical design.
 
 <!--A data-driven personal website
 ======
