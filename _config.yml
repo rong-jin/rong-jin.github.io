@@ -25,7 +25,7 @@ author:
   avatar           : "RJ_Chicago.jpg"
   name             : "Rong Jin"
   pronouns         : # example: "she/her"  
-  bio              : "My research focuses on the modeling, data-assimilation, and uncertainty quantification of high-/hyper-velocity impact problems."
+  bio              : "Ph.D. Candidate in Mechanical Engineering specializing in High-Velocity Impact (HVI) modeling. My research integrates LS-DYNA FEM/SPH/SPG simulations with rigorous experimental validation. I specifically utilize Data Assimilation (DA) and Uncertainty Quantification (UQ) to perform precise material model parameter calibration, ensuring high-fidelity results backed by HVI experiments and 3D-DIC data post-processing."
   location         : "Lexington, KY, USA"
   employer         : "University of Kentucky"
   uri              : # URL
