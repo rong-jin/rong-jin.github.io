@@ -14,6 +14,29 @@ var $hlinks = $('#site-nav .hidden-links');
 var breaks = [];
 
 function updateNav() {
+  var isDesktopVerticalNav = window.innerWidth >= 925;
+
+  if (isDesktopVerticalNav) {
+    while ($hlinks.children().length > 0) {
+      if ($vlinks_persist_tail.children().length > 0) {
+        $hlinks.children().first().insertBefore($vlinks_persist_tail);
+      } else {
+        $hlinks.children().first().appendTo($vlinks);
+      }
+    }
+    breaks = [];
+    $btn.addClass('hidden');
+    $btn.removeClass('close');
+    $hlinks.addClass('hidden');
+
+    var mastheadWidth = $('.masthead').outerWidth();
+    $('body').css('padding-top', '0');
+    $('body').css('padding-left', mastheadWidth + 'px');
+    $(".sidebar").css("padding-top", "");
+    return;
+  }
+
+  $('body').css('padding-left', '0');
 
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 

@@ -319,6 +319,33 @@
   }
 }
 
+@include breakpoint($large) {
+  .greedy-nav {
+    min-width: auto;
+
+    button {
+      display: none;
+    }
+
+    .visible-links {
+      display: block;
+
+      li {
+        display: block;
+      }
+
+      a {
+        margin: 0.15rem 0;
+        padding: 0.45rem 0.25rem;
+      }
+    }
+
+    .hidden-links {
+      display: none !important;
+    }
+  }
+}
+
 
 /*
    Navigation list
