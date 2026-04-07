@@ -46,14 +46,17 @@
 
 @include breakpoint($large) {
   .masthead {
-    left: 24px;
+    left: 0;
     width: 220px;
     height: 100vh;
     overflow-y: auto;
   }
 
   .masthead::after {
-    display: none;
+    top: 0;
+    bottom: auto;
+    width: 1px;
+    height: 100%;
   }
 }
 

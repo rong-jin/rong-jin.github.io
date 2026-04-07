@@ -30,9 +30,8 @@ function updateNav() {
     $hlinks.addClass('hidden');
 
     var mastheadWidth = $('.masthead').outerWidth();
-    var mastheadLeft = parseFloat($('.masthead').css('left')) || 0;
     $('body').css('padding-top', '0');
-    $('body').css('padding-left', (mastheadWidth + mastheadLeft) + 'px');
+    $('body').css('padding-left', mastheadWidth + 'px');
     $(".sidebar").css("padding-top", "");
     return;
   }
