@@ -3,29 +3,12 @@
    ========================================================================== */
 
 $(document).ready(function () {
-  // Set the theme on page load
-  var setTheme = function (theme) {
-    const use_theme = theme || localStorage.getItem("theme") || $("html").attr("data-theme");
-    if (use_theme === "dark") {
-      $("html").attr("data-theme", "dark");
-      $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
-    } else if (use_theme === "light") {
-      $("html").removeAttr("data-theme");
-      $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
-    }
-  }
+  // Force dark theme only
+  var setTheme = function () {
+    $("html").attr("data-theme", "dark");
+    localStorage.setItem("theme", "dark");
+  };
   setTheme();
-
-  // Toggle the theme
-  var toggleTheme = function () {
-    const current_theme = $("html").attr("data-theme");
-    const new_theme = current_theme === "dark" ? "light" : "dark";
-    localStorage.setItem("theme", new_theme);
-    setTheme(new_theme);
-  }
-  $('#theme-toggle').on('click', function () {
-    toggleTheme();
-  });
 
   // These should be the same as the settings in _variables.scss
   const scssLarge = 925; // pixels
@@ -65,7 +48,8 @@ $(document).ready(function () {
   });
 
   // init smooth scroll, this needs to be slightly more than then fixed masthead height
-  $("a").smoothScroll({ offset: -65 });
+  var smoothScrollOffset = $(window).width() >= scssLarge ? -20 : -65;
+  $("a").smoothScroll({ offset: smoothScrollOffset });
 
   // add lightbox class to all image links
   $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
