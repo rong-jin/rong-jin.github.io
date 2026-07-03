@@ -7,13 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Mechanical Engineering at the University of Kentucky, driven by a passion for solving complex problems at the intersection of High-Velocity Impact (HVI) mechanics and computational modeling.
+I am a Ph.D. candidate in Mechanical Engineering at the University of Kentucky.
 
-My research focuses on bridging the gap between virtual simulations and physical reality. I specialize in advanced LS-DYNA simulations, leveraging both meshfree methods (SPH/SPG) and Finite Element Methods (FEM) to model extreme material behaviors. A key differentiator in my work is the rigorous application of Data Assimilation (DA) and Uncertainty Quantification (UQ). I utilize these frameworks specifically for material model parameter calibration, ensuring that simulation predictions are mathematically robust and physically accurate.
-
-Beyond computational mechanics, I believe in a holistic engineering approach. My technical workflow is supported by HVI experiments and 3D-DIC data post-processing for validation. I am also proficient in using Python for data analysis and automation, and SolidWorks for 3D modeling and motion analysis.
-
-Whether it's conducting high-fidelity simulations or delivering comprehensive technical documentation, I am committed to providing robust, data-driven engineering solutions. I welcome the opportunity to connect and discuss cutting-edge technologies in simulation and mechanical design.
+My research focuses on modelling, data assimilation and uncertainty quantification of high/hyper-velocity impact problems.
 
 <!--A data-driven personal website
 ======
